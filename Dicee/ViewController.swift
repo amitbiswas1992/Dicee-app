@@ -40,6 +40,8 @@ class ViewController: UIViewController {
     
         diceeImageView1.image = UIImage(named: diceImageArray[randomDiceeIndex1])
         
+        diceeImageView2.image=UIImage(named:diceImageArray[randomDiceeIndex1])
+        
     }
     
   
